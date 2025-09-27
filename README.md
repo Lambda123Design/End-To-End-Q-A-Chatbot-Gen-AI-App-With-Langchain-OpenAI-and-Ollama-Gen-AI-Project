@@ -1,4 +1,4 @@
-# End-To-End-Q-A-Chatbot-Gen-AI-App-With-Langchain-OpenAI-and-Ollama-Gen-AI-Project
+# End-To-End-Q-A-Chatbot-Gen-AI-App-With-Langchain-OpenAI-and-Ollama-GenAI-Project
 This Repository contains my working files of "End To End Q&amp;A Chatbot GEN AI App With Langchain, OpenAI and Ollama Project", an Gen AI Project
 
 (i) Implemented an end-to-end Q&A chatbot using OpenAI models like GPT-4 and GPT-4 Turbo, as well as open-source models like LLama and Mistral. 
